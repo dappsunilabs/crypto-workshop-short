@@ -6,7 +6,11 @@
 * https://www.gate.io/en/trade/BTC_USDT
 
 ### Repo
-* https://github.com/dappsunilabs/crypto-workshop
+* https://github.com/dappsunilabs/crypto-workshop-short
+
+
+### OR download zip and unzip
+https://github.com/dappsunilabs/crypto-workshop-short/archive/master.zip
 
 ### Tech Stack
 * Docker Swarm (instead of Kubernetes)

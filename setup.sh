@@ -14,9 +14,10 @@ docker pull eshnil2000/generator
 docker pull eshnil2000/detector
 ```
 # STEP 2: clone the repo
-git clone https://github.com/dappsunilabs/crypto-workshop
+git clone https://github.com/dappsunilabs/crypto-workshop-short
+
 #OR download zip and unzip
-https://github.com/dappsunilabs/crypto-workshop/archive/master.zip
+https://github.com/dappsunilabs/crypto-workshop-short/archive/master.zip
 
 # STEP 3: (MAC ONLY)
 #Setup /etc/hosts to route to localhost subdomains (Firefox, Safari browsers)
